@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subscribe_activity.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\layout\\subscribe_activity.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subscribe_category_item.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\layout\\subscribe_category_item.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\layout\\title_bar.xml"
+    }
+]

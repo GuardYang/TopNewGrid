@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_titlebar.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\drawable\\bg_titlebar.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscribe_item_bg.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\drawable\\subscribe_item_bg.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_common.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\drawable\\btn_common.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\subscribe_item_text_color_night.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\drawable\\subscribe_item_text_color_night.xml"
+    },
+    {
+        "merged": "F:\\aswork\\TopNewGrid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
+        "source": "F:\\aswork\\TopNewGrid1\\app\\src\\main\\res\\drawable\\btn_back.xml"
+    }
+]
