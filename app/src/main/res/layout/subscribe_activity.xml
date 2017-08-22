@@ -91,9 +91,4 @@
         </LinearLayout>
     </ScrollView>
 
-    <include
-        android:id="@+id/category_layout"
-        layout="@layout/subscribe_category_item"
-        android:visibility="gone" />
-
 </RelativeLayout>

@@ -13,8 +13,8 @@
         android:layout_centerInParent="true"
         android:background="@drawable/subscribe_item_bg"
         android:gravity="center"
-        android:minHeight="38.0dip"
-        android:minWidth="72.0dip"
+        android:minHeight="56.0dip"
+        android:minWidth="76.0dip"
         android:textColor="@color/subscribe_item_text_color"
         android:textSize="14.0sp" />
     <!-- android:layout_margin="5dip" -->
